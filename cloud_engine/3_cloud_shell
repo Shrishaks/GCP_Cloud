@@ -1,0 +1,16 @@
+# Google Cloud Shell
+
+## What is Cloud Shell?
+
+- Cloud Shell is an online development and operations environment.
+- Accessible anywhere with your browser.
+- Provides command-line access to a virtual machine instance in a terminal window.
+- Favourite command-line tools pre-installed, up-to-date and ready to use. Just connect and use.
+
+## Features of Cloud Shell
+
+- **Shells:** Bash, sh, emacs, vim.
+- **Command-line tools:** gcloud, MySQL, Kubernetes CLI, Docker CLI, minikube and many more.
+- **Persistent Storage:** 5 GB of persistent disk storage for the `$HOME` directory.
+- **Online Code Editor:** Develop, build, debug, and test your apps anywhere using the Cloud Shell Editor.
+- **Source Control via Git:** Clone or pull remote repositories or commit your code changes back to your repository via Cloud Shell's Git client.
